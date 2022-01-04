@@ -1,6 +1,6 @@
 # Ppl Finder 
 
-[Click to go to the deployed via github pages](https://soferdani.github.io/PplFinder/#/)
+[Click to go to the deployed via github pages](https://soferdani.github.io/PplFinder/)
 
 Welcome to the Ppl Finder application (link to the deployed). 
 This app is a simple application which displays randomly generated user information in a list, using the `randomuser.me` API.
