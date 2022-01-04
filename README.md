@@ -28,5 +28,5 @@ and requires [NPM](https://docs.npmjs.com/) to be installed.
     cd notes-react-app
     npm install
 
-## Usage
+## Usage 
     npm start
